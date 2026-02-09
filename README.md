@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently building  machine learning projects <br><br>I'm looking to collaborate on data analysis,machine learning and begineer friendly Ai projects<br><br>I'm looking for help with advance ML concepts ,model deployment and industry practices<br><br>I'm currently learning<br>Python ,Dta analysis ,ML,SQl,Power Bi, Java,and Full stack basics(React,HTML,CSS)<br><br>Ask me about<br>Python,flask, machine learning ,SQL queries and project building<br><br>Fun fact<br>I love turning raw data into meaningful insights
+I'm currently building  machine learning projects <br><br>I'm looking to collaborate on data analysis,machine learning and begineer friendly Ai projects<br><br>I'm looking for help with advance ML concepts ,model deployment and industry practices<br><br>I'm currently learning<br>Python ,Data analysis ,ML,SQl,Power Bi, Java,and Full stack basics(React,HTML,CSS)<br><br>Ask me about<br>Python,flask, machine learning ,SQL queries and project building<br><br>Fun fact<br>I love turning raw data into meaningful insights
 
 
 ## 🌐 Socials:
