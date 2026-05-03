@@ -1,115 +1,92 @@
-<h2 align="left">Hi 👋! My name is Om Rasal and I'm an MCA Student, from India 🇮🇳</h2>
+<h1 align="center">Hi 👋, I'm Om Rasal</h1>
+<h3 align="center">A Passionate MCA Student | Data Analyst | AI/ML Enthusiast From India  🇮🇳</h3>
 
-###
+---
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Omrasal7&show_icons=true&theme=dracula" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Omrasal7&layout=compact&langs_count=8&theme=dracula" height="150" />
-</div>
+<img align="right" alt="coding boy" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
-###
+## 👨‍💻 About Me
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif" />
+- 🎓 MCA Student  
+- 🌱 Exploring **AI + Machine Learning**  
+- 📊 Interested in **Data Analysis & Data Science**  
+- 🤖 Working with **Gen AI, LangChain & Ollama**  
+- 🚀 Building projects using **Flask & FastAPI**  
+- 💡 Trying to make systems smarter  
 
-###
+---
 
-<h3 align="left">👨‍💻 About Me</h3>
+## 🛠 Skills
 
-- 🎓 MCA Student (Data Science & AI Enthusiast)
-- 📊 Interested in Data Analysis, AI/ML & Generative AI
-- 🤖 Building projects using Flask, FastAPI & Gen AI
-- 🚀 Currently learning advanced AI + Full Stack Development
-- 💡 Love solving real-world problems using data
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=database&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Data%20Analysis-FF6F00?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/AI%2FML-8A2BE2?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Gen%20AI-000000?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge"/>
+  
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
+  
+  <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C%23-68217A?style=for-the-badge&logo=csharp&logoColor=white"/>
+  
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+  
+  <img src="https://img.shields.io/badge/VS%20Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
+</p>
 
-###
+---
 
-<h3 align="left">🛠 Tech Stack</h3>
+## 🔥 GitHub Streak
 
-<div align="left">
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Omrasal7&theme=tokyonight"/>
+</p>
 
-  <!-- Languages -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30"/>
-  <img width="10"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30"/>
-  <img width="10"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30"/>
-  <img width="10"/>
+---
 
-  <!-- Web -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30"/>
-  <img width="10"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30"/>
-  <img width="10"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30"/>
-  <img width="10"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30"/>
-  <img width="10"/>
+## 📊 Contribution Graph
 
-  <!-- Backend -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="30"/>
-  <img width="10"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="30"/>
-  <img width="10"/>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Omrasal7&theme=tokyo-night"/>
+</p>
 
-  <!-- Database -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30"/>
-  <img width="10"/>
+---
 
-  <!-- Tools -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30"/>
-  <img width="10"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="30"/>
-  <img width="10"/>
+## 🌐 Connect with Me
 
-</div>
-
-###
-
-<h3 align="left">🧠 AI & Data Skills</h3>
-
-- 📊 Data Analysis (Pandas, NumPy, Visualization)
-- 🧠 Machine Learning & AI
-- 🤖 Generative AI (Ollama, LangChain)
-- ⚡ FastAPI + AI Integration
-- 🔍 NLP & Recommendation Systems
-
-###
-
-<h3 align="left">🔥 GitHub Streak & Activity</h3>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=Omrasal7&theme=dracula" height="180" />
-</div>
-
-###
-
-<h3 align="left">📊 Contribution Graph</h3>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Omrasal7&theme=dracula" />
-</div>
-
-###
-
-<h3 align="left">🌐 Connect with Me</h3>
-
-<div align="left">
+<p align="left">
   <a href="https://www.linkedin.com/">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&color=0077B5&style=for-the-badge" height="35"/>
+    <img src="https://img.shields.io/badge/LinkedIn-Om%20Rasal-blue?style=for-the-badge&logo=linkedin"/>
   </a>
   <a href="mailto:yourmail@gmail.com">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&color=D14836&style=for-the-badge" height="35"/>
+    <img src="https://img.shields.io/badge/Gmail-Contact-red?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   <a href="https://instagram.com/">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&color=E4405F&style=for-the-badge" height="35"/>
+    <img src="https://img.shields.io/badge/Instagram-Follow-purple?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
-</div>
+</p>
 
-###
+---
 
-<br clear="both">
+## 🐍 Contribution Snake
 
-<!-- 🐍 Snake Animation -->
-<img src="https://raw.githubusercontent.com/Omrasal7/Omrasal7/output/snake.svg" alt="Snake animation" />
-
-###
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Omrasal7/Omrasal7/output/snake.svg"/>
+</p>
