@@ -6,25 +6,22 @@ on:
   workflow_dispatch:
 
 permissions:
-  contents: write   # ✅ IMPORTANT FIX
+  contents: write
 
 jobs:
   build:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Checkout
-        uses: actions/checkout@v4   # ✅ updated version
+      - uses: actions/checkout@v4
 
-      - name: Generate snake
-        uses: Platane/snk@v3
+      - uses: Platane/snk@v3
         with:
           github_user_name: Omrasal7
           outputs: |
             dist/snake.svg
 
-      - name: Push to output branch
-        uses: crazy-max/ghaction-github-pages@v4   # ✅ updated version
+      - uses: crazy-max/ghaction-github-pages@v4
         with:
           target_branch: output
           build_dir: dist
