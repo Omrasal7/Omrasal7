@@ -52,13 +52,9 @@
 </p>
 
 ---
+## 📊 GitHub Stats
 
-## 🔥 GitHub Streak
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Omrasal7&theme=tokyonight"/>
-</p>
-
+![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Omrasal7&show_icons=true&theme=tokyonight&hide_border=true)
 ---
 
 ## 📊 Contribution Graph
