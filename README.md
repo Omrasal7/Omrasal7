@@ -54,7 +54,7 @@
 ---
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Omrasal7&show_icons=true&theme=tokyonight&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com?user=Omrasal7&theme=tokyonight&hide_border=true)
 
 
 ---
