@@ -54,13 +54,15 @@
 ---
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Omrasal7&show_icons=true&theme=tokyonight&hide_border=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Omrasal7&show_icons=true&theme=tokyonight&hide_border=true)
+
+
 ---
 
 ## 📊 Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Omrasal7&theme=tokyo-night"/>
+  <img src="https://ghchart.rshah.org/Omrasal7" alt="Om Rasal GitHub contribution graph" width="100%"/>
 </p>
 
 ---
